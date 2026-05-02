@@ -114,7 +114,7 @@ The dataset expanded from **10 columns to 27 columns** by creating:
 
 ### Dashboard Screenshot
 
-![Dashboard Screenshot](https://github.com/Payal281119/Nykaa_Marketing_Analytics/blob/main/Nyka%20Marketing%20Dashboard.png?raw=true)
+![Dashboard Screenshot](https://github.com/Payal281119/Nykaa-Marketing-Analytics-Dashboard/blob/main/Nyka_Marketing_Dashboard.png?raw=true)
 
 ---
 
